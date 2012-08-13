@@ -1,4 +1,5 @@
-# What is it
+What is it
+############
 
 This is simple timer for `pomadoro technique`_.
 
