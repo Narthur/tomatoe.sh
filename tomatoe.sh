@@ -19,7 +19,7 @@ m_resting=5 # Resting time. Default 05 minutes.
 m_working=25 # Working time. Default 25 minutes.
 s_resting=$(($m_resting*$minute)) # seconds to resting.
 s_working=$(($m_working*$minute)) # seconds to working.
-audio_warning="/home/$USER/Audio/attention.wav" # some cute audio warning.
+audio_warning="alert.mp3" # some cute audio warning.
 ## -----------------------
 
 function starting_dialog()
